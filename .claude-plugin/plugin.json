@@ -1,0 +1,14 @@
+{
+  "name": "railjournal",
+  "displayName": "RailJournal",
+  "version": "1.0.0",
+  "description": "Indian Railways train and station lookup, timetables and cached running status from RailJournal.",
+  "author": {
+    "name": "RailJournal",
+    "email": "railjournalindia@gmail.com",
+    "url": "https://railjournal.in"
+  },
+  "homepage": "https://railjournal.in",
+  "license": "MIT",
+  "keywords": ["india", "railways", "trains", "timetable", "running-status"]
+}
