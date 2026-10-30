@@ -14,13 +14,14 @@ The plugin connects Claude to the RailJournal MCP server, a read-only service wi
 | `get_station_info` | Station name, location, zone, division and facts |
 | `get_train_running_status` | Reported running status from RailJournal's cache |
 
-It also ships two skills that tell Claude how to use the tools well: `find-train-or-station` and `train-status`.
+It also ships three skills that tell Claude how to use the tools well: `find-train-or-station`, `train-status` and `journey-check`.
 
 ## Example prompts
 
 - "What is train 12951 and which days does it run?"
 - "Find the station code for Mumbai Central and tell me about it."
 - "How is 12301 running today?"
+- "Does 12951 go from Mumbai Central to New Delhi, and how long does it take?"
 
 ## Data and privacy
 
